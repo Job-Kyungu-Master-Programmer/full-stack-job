@@ -8,5 +8,5 @@ jobs:
         runs-on: ubuntu-20.03
         steps:
            -name: Say Hello
-              runs: |
+              run: |
                 echo "Hello thanks"
